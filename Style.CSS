@@ -1,0 +1,112 @@
+body{
+    background-color: beige;
+}
+#main{
+    margin: 12px;
+}
+#content{
+    margin-left: 140px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif ; 
+    text-align: center;
+    color:  #034f84;
+    text-shadow: 3px 3px 3px black;
+}
+td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    empty-cells: hide;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+}
+.one{
+    background-color: rgb(238, 162, 154);
+    border: 1px solid;
+    border-radius: 9px;
+
+}
+.one:hover{
+    background-color: rgb(245, 197, 192);
+    box-shadow: 4px 4px ;
+}
+.two{
+    background-color: rgb(147, 112, 216);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.two:hover{
+    background-color: rgb(202, 178, 250);
+    box-shadow: 4px 4px;
+}
+.three{
+    background-color: rgb(222, 184, 135);
+    border: 1px solid black;
+    border-radius: 9px;
+} .three:hover{
+    background-color: rgb(236, 208, 171);
+    box-shadow: 4px 4px;
+}
+.four{
+    background-color: rgb(227, 234, 167);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.four:hover{
+    background-color: rgb(246, 250, 207);
+    box-shadow: 4px 4px;
+}
+.five{
+    background-color: rgb(176, 170, 192);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.five:hover{
+    background-color: rgb(214, 208, 231);
+    box-shadow: 4px 4px;
+}
+.six{
+    background-color: rgb(214, 156, 214);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.six:hover{
+    background-color: rgb(241, 193, 241);
+    box-shadow: 4px 4px;
+}
+.seven{
+    background-color: rgb(207, 224, 232);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.seven:hover{
+    background-color: rgb(198, 224, 236);
+    box-shadow: 4px 4px;
+}
+.eight{
+    background-color: rgb(128, 206, 214);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.eight:hover{
+    background-color: rgb(183, 237, 243);
+    box-shadow: 4px 4px;
+}
+.nine{
+    background-color: rgb(143, 188, 143);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.nine:hover{
+    background-color: rgb(181, 231, 181);
+    box-shadow: 4px 4px;
+}
+.ten{
+    background-color: rgb(189, 183, 107);
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.ten:hover{
+    background-color: rgb(236, 231, 157);
+    box-shadow: 4px 4px;
+}
